@@ -1,2 +1,2 @@
 # Trash
-Repository for everything that didn't make it to it's own repo.
+Repository for everything that didn't make it to its own repo.
